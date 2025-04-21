@@ -1,3 +1,4 @@
+import * as React from "react";
 import { Link } from "react-router-dom";
 import { Book, Users, Star } from "lucide-react";
 import { 
